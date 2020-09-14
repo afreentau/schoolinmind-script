@@ -1,0 +1,2 @@
+# schoolinmind-script
+script code
